@@ -59,4 +59,4 @@ jobs:
         uses: docker/build-push-action@v3
         with:
           push: true
-          tags: fadsfdsfdsf/ci-math-app:latest
+          tags: fadsfdsfdsf/ci-go-math-app:latest
